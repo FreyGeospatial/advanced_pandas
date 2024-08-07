@@ -1,2 +1,2 @@
 # advanced_pandas
-linkedin learning course
+linkedin learning course. required by current company.
